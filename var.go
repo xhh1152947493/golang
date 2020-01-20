@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"os"
 	"runtime"
+	"time"
 )
 
 func main() {
@@ -11,6 +12,7 @@ func main() {
 	fmt.Printf("The operating system is: %s\n", goos)
 	path := os.Getenv("PATH")
 	fmt.Printf("Path is %s\n", path)
+	time.Sleep(5 * time.Second)
 }
 
 // 声明变量的一般形式是使用 var 关键字：var identifier type。
