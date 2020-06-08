@@ -2,15 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5601f66f-6920-47e5-acd2-778d408ebadc" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/删除字符串中的所有相邻重复项.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/替换空格.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/比较含退格的字符串.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/猜数字.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1266. 访问所有点的最小时间.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1281. 整数的各位积和之差.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1295. 统计位数为偶数的数字.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1342. 将数字变成 0 的操作次数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1389. 按既定顺序创建目标数组.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1450. 在既定时间做作业的学生人数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1460. 通过翻转子数组使两个数组相等.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1464. 数组中两元素的最大乘积.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/分割平衡字符串.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/将每个元素替换为右侧最大元素.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/拿硬币.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/旅行终点站.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/统计有序矩阵中的负数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题17. 打印从1到最大的n位数.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/const.go" beforeDir="false" afterPath="$PROJECT_DIR$/const.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/hello.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基本类型和表达式.go" beforeDir="false" afterPath="$PROJECT_DIR$/基本类型和表达式.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +36,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/将每个元素替换为右侧最大元素.go" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1TuIVZonBMW8k2OnmElbmO1amYp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -49,12 +62,68 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../go_build" />
     <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoProjectSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Go Build.go build 替换空格.go">
-    <configuration name="go build 替换空格.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build 1281. 整数的各位积和之差.go">
+    <configuration name="go build 1266. 访问所有点的最小时间.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_study" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/替换空格.go" />
+      <filePath value="$PROJECT_DIR$/1266. 访问所有点的最小时间.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 1281. 整数的各位积和之差.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_study" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/1281. 整数的各位积和之差.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 1389. 按既定顺序创建目标数组.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_study" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/1389. 按既定顺序创建目标数组.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 1464. 数组中两元素的最大乘积.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_study" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/1464. 数组中两元素的最大乘积.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 面试题17. 打印从1到最大的n位数.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_study" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/面试题17. 打印从1到最大的n位数.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 分割平衡字符串.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_study" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/分割平衡字符串.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 旅行终点站.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_study" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/旅行终点站.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 统计有序矩阵中的负数.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_study" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/统计有序矩阵中的负数.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -74,14 +143,6 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build const.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="go_study" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/const.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build go_study/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="go_study" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -92,45 +153,21 @@
       <output_directory value="$PROJECT_DIR$/../go_build" />
       <method v="2" />
     </configuration>
-    <configuration name="go build hello.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="go_study" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/hello.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build test.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="go_study" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/test.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build var.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="go_study" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/var.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Go Build.go build go_study/" />
-      <item itemvalue="Go Build.go build const.go" />
-      <item itemvalue="Go Build.go build hello.go (1)" />
-      <item itemvalue="Go Build.go build test.go (1)" />
-      <item itemvalue="Go Build.go build var.go" />
-      <item itemvalue="Go Build.go build 替换空格.go" />
+      <item itemvalue="Go Build.go build 1266. 访问所有点的最小时间.go" />
+      <item itemvalue="Go Build.go build 面试题17. 打印从1到最大的n位数.go" />
+      <item itemvalue="Go Build.go build 1464. 数组中两元素的最大乘积.go" />
+      <item itemvalue="Go Build.go build 1389. 按既定顺序创建目标数组.go" />
+      <item itemvalue="Go Build.go build 1281. 整数的各位积和之差.go" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 替换空格.go" />
-        <item itemvalue="Go Build.go build var.go" />
-        <item itemvalue="Go Build.go build const.go" />
-        <item itemvalue="Go Build.go build test.go (1)" />
-        <item itemvalue="Go Build.go build hello.go (1)" />
+        <item itemvalue="Go Build.go build 1281. 整数的各位积和之差.go" />
+        <item itemvalue="Go Build.go build 1389. 按既定顺序创建目标数组.go" />
+        <item itemvalue="Go Build.go build 1464. 数组中两元素的最大乘积.go" />
+        <item itemvalue="Go Build.go build 面试题17. 打印从1到最大的n位数.go" />
+        <item itemvalue="Go Build.go build 1266. 访问所有点的最小时间.go" />
       </list>
     </recent_temporary>
   </component>
@@ -183,37 +220,91 @@
     <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591256340220">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591263317783">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1591256340220" />
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1591258206433">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1591263317783" />
+    <state x="477" y="47" key="#go_build_1464._数组中两元素的最大乘积.go" timestamp="1591606074837">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591258206433" />
+    <state x="477" y="47" key="#go_build_1464._数组中两元素的最大乘积.go/0.0.1536.824@0.0.1536.824" timestamp="1591606074837" />
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1591612236492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591612236492" />
+    <state width="461" height="466" key="DebuggerActiveHint" timestamp="1591609143255">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="461" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1591609143255" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1591612246604">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1591612246604" />
     <state x="548" y="168" key="FileChooserDialogImpl" timestamp="1591256244558">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591256244558" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1591258206481">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1591611864300">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591258206481" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1591258206480">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591611864300" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1591611864300">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591258206480" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1591258206480">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591611864300" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1591611864300">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591258206480" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1591258206481">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591611864300" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1591611864300">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591258206481" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591611864300" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1591611864300">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591611864300" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1591611864300">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591611864300" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1591611864300">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591611864300" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1591611864300">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591611864300" />
     <state x="270" y="55" key="SettingsEditor" timestamp="1591256205037">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591256205037" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/统计有序矩阵中的负数.go</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/1266. 访问所有点的最小时间.go</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/1389. 按既定顺序创建目标数组.go</url>
+          <line>19</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/1281. 整数的各位积和之差.go</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

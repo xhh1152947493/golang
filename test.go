@@ -41,9 +41,9 @@ var a string
 
 // GOG
 func main() {
-	a = "G"
-	print(a)
-	f1()
+	var res []int
+	res = append(res, 1)
+
 }
 
 func f1() {
