@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5601f66f-6920-47e5-acd2-778d408ebadc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1374. 生成每种字符都是奇数个的字符串.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1385. 两个数组间的距离值.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1431. 拥有最多糖果的孩子.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1470. 重新排列数组.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试题 01.01. 判定字符是否唯一.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1304. 和为零的N个唯一整数.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/const.go" beforeDir="false" afterPath="$PROJECT_DIR$/const.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/hello.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var.go" beforeDir="false" afterPath="$PROJECT_DIR$/var.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/删除字符串中的所有相邻重复项.go" beforeDir="false" afterPath="$PROJECT_DIR$/删除字符串中的所有相邻重复项.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基本类型和表达式.go" beforeDir="false" afterPath="$PROJECT_DIR$/基本类型和表达式.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/替换空格.go" beforeDir="false" afterPath="$PROJECT_DIR$/替换空格.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/比较含退格的字符串.go" beforeDir="false" afterPath="$PROJECT_DIR$/比较含退格的字符串.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/猜数字.go" beforeDir="false" afterPath="$PROJECT_DIR$/猜数字.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +212,8 @@
     <MESSAGE value="some add" />
     <MESSAGE value="1" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="3" />
+    <option name="LAST_COMMIT_MESSAGE" value="3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591263317783">
@@ -219,10 +224,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="477" y="47" key="#go_build_1464._数组中两元素的最大乘积.go/0.0.1536.824@0.0.1536.824" timestamp="1591606074837" />
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1591612255666">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1591860856221">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591612255666" />
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591860856221" />
     <state width="461" height="466" key="DebuggerActiveHint" timestamp="1591609143255">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -271,6 +276,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591256205037" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1591860242396">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591860242396" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
