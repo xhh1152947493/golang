@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5601f66f-6920-47e5-acd2-778d408ebadc" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/1266. 访问所有点的最小时间.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1281. 整数的各位积和之差.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1295. 统计位数为偶数的数字.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1342. 将数字变成 0 的操作次数.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1389. 按既定顺序创建目标数组.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1450. 在既定时间做作业的学生人数.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1460. 通过翻转子数组使两个数组相等.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1464. 数组中两元素的最大乘积.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/分割平衡字符串.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/将每个元素替换为右侧最大元素.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/拿硬币.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/旅行终点站.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/统计有序矩阵中的负数.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试题17. 打印从1到最大的n位数.go" afterDir="false" />
+    <list default="true" id="5601f66f-6920-47e5-acd2-778d408ebadc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1374. 生成每种字符都是奇数个的字符串.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1385. 两个数组间的距离值.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1431. 拥有最多糖果的孩子.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1470. 重新排列数组.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题 01.01. 判定字符是否唯一.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,6 +144,7 @@
     </configuration>
     <list>
       <item itemvalue="Go Build.go build go_study/" />
+      <item itemvalue="Go Build.go build 分割平衡字符串.go" />
       <item itemvalue="Go Build.go build 1266. 访问所有点的最小时间.go" />
       <item itemvalue="Go Build.go build 面试题17. 打印从1到最大的n位数.go" />
       <item itemvalue="Go Build.go build 1464. 数组中两元素的最大乘积.go" />
@@ -217,7 +207,8 @@
     <MESSAGE value="frist commit" />
     <MESSAGE value="some add" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591263317783">
@@ -228,10 +219,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="477" y="47" key="#go_build_1464._数组中两元素的最大乘积.go/0.0.1536.824@0.0.1536.824" timestamp="1591606074837" />
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1591612236492">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1591612255666">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591612236492" />
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591612255666" />
     <state width="461" height="466" key="DebuggerActiveHint" timestamp="1591609143255">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -244,38 +235,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591256244558" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1591611864300">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1591612261204">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591611864300" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1591611864300">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591612261204" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1591612261204">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591611864300" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1591611864300">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591612261204" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1591612261203">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591611864300" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1591611864300">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591612261203" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1591612261204">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591611864300" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1591611864300">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591612261204" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1591612261204">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591611864300" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1591611864300">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591612261204" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1591612261204">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591611864300" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1591611864300">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591612261204" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1591612261204">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591611864300" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1591611864300">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591612261204" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1591612261204">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591611864300" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591612261204" />
     <state x="270" y="55" key="SettingsEditor" timestamp="1591256205037">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -301,7 +292,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/1281. 整数的各位积和之差.go</url>
-          <line>10</line>
+          <line>11</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
